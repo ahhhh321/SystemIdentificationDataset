@@ -6,6 +6,7 @@ This repository contains a synthetic system identification dataset generated usi
 
 ## 📘 Description
 The dataset models a nonlinear dynamic system governed by the following nonlinear difference equation:
+
 yp(i) = 0.72yp(i-1) + 0.025yp(i-2)u(i-2) + 0.01u(i-3)^2 + 0.2*u(i-4)
 
 ---

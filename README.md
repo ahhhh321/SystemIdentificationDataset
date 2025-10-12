@@ -35,3 +35,10 @@ whos
 ```python
 from scipy.io import loadmat
 data = loadmat('System_Identification_Dataset.mat')
+```
+ **Citation:**
+
+If you use this dataset, please cite:
+
+Ahmad, Z. (2025). System Identification Dataset (MATLAB). GitHub Repository.
+Available at: https://github.com/ahhhh321/SystemIdentificationDataset

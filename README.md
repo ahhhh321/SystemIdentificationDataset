@@ -31,3 +31,7 @@ The dataset models a nonlinear dynamic system governed by the following nonlinea
 load('System_Identification_Dataset.mat');
 whos
 ```
+**In Python (using SciPy):**
+```python
+from scipy.io import loadmat
+data = loadmat('System_Identification_Dataset.mat')
